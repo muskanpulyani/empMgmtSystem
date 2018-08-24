@@ -8,6 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 <!--i'm chnages this code -->
+	<!--new  code updated -->
 	<name>EmpMgmtSystem</name>
 	<description>Demo project for Spring Boot</description>
 
